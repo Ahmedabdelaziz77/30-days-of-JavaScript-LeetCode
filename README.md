@@ -17,7 +17,7 @@ To run the solutions, you will need:
 
 ### Setup
 
-1. Clone this repository:
+Clone this repository:
    ```sh
    git clone https://github.com/your-username/30-days-leetcode-challenge.git
    cd 30-days-leetcode-challenge
